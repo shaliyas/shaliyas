@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @shaliyas
-- 👀 I’m interested in Software testing 
-- 🌱 I’m currently learning Full Stack development, Web automation and API testing.
-- 💞️ I’m looking to collaborate on team and targets
-- 📫 How to reach me shaliya.subhashana@gmail.com
 
-<!---
-shaliyas/shaliyas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi, I'm Shaliya 👋
+**Manual QA Engineer | Automation Enthusiast | Continuous Learner**  
+Passionate about ensuring software quality through rigorous testing, innovative solutions, and continuous learning in automation and development.
+
+- 🔍 Experienced in Manual testing for web and mobile applications.
+- 📚 Exploring test automation with Selenium, Postman, JMeter and Full Stack development.
+- 🌟 Skilled in test case creation, bug reporting, and exploratory testing.
+- 💡 Currently learning JavaScript and contributing to open-source QA tools.
+- 💞️ I’m looking to collaborate on team and targets
+
+Let's connect on, 
+linkedin.com/in/shaliya-subhashana/
+shaliya.subhashana@gmail.com
+
+
