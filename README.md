@@ -10,7 +10,8 @@ Passionate about ensuring software quality through rigorous testing, innovative 
 - 💞️ I’m looking to collaborate on team and targets
 
 Let's connect on, 
-https://www.linkedin.com/in/shaliya-subhashana/ or
-shaliya.subhashana@gmail.com
+Linkedln : https://www.linkedin.com/in/shaliya-subhashana/ 
+Gmail : shaliya.subhashana@gmail.com
+Website : https://shaliyas.github.io/kpssd/
 
 
